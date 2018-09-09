@@ -34,7 +34,7 @@ The Sixth of mark six number is :
 The special number of mark six number is :
 6
 
-###(4) The Reference
+### (4) The Reference
 
 [1] https://en.wikipedia.org/wiki/Mark_Six
 
