@@ -1,6 +1,8 @@
 # Mark-six
 ## 1. Introduction 
 
+
+
 	### (1) Background information
 
 Mark Six is a lottery-style game where players guess what numbers will be drawn out of a lottery machine. The lottery machine is a transparent plastic cylinder which contains coloured Red, Blue and Green balls with numbers 1 to 49. The cylinder is rotated to provide randomisation in the drawing process. Each drawing occurs on 9:30PM (Hong Kong Time) every Tuesday, Thursday, and Sunday (or Saturday if horse races occurs on Sunday), while bets are accepted until 15 minutes prior to the drawing.
